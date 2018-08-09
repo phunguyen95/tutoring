@@ -1,0 +1,24 @@
+@import 'about_responsive.scss';
+@import 'about.scss';
+@import 'blog_responsive.scss';
+@import 'blog_single_responsive.scss';
+@import 'blog_single.scss';
+@import 'blog.scss';
+@import 'contact_responsive.scss';
+@import 'contact.scss';
+@import 'course_responsive.scss';
+@import 'course.scss';
+@import 'courses_responsive.scss';
+@import 'courses.scss';
+@import 'main_styles.scss';
+@import 'responsive.scss';
+body {
+  font-family: 'Roboto', sans-serif !important;
+  margin: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  width: 100%;
+}
+#root {
+  overflow: hidden;
+}
